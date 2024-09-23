@@ -11,7 +11,7 @@ let tecla;
 let clicks=0;
 
 function preload() {
-  imagen = loadImage("data/F_17.jpg");
+  imagen = loadImage("data/F_17.jpeg");
 }
 
 function setup() {
