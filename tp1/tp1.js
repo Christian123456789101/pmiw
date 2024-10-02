@@ -1,7 +1,7 @@
 //Christian Strack
 //119149/4
 //comisión 4
-//tp1
+//tp1 recuperatorio
 // https://youtu.be/dJpclsPD1lw?si=_svaO6daH4blzaJn
 
 let imagen;
