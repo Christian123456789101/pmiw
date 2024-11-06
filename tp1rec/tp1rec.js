@@ -2,7 +2,6 @@
 //119149/4
 //comisión 4
 //tp1rec
-//video: https://www.youtube.com/watch?v=6j7Ghs1JkP8&ab_channel=Cris
 
 let tam = 23;
 let cant = 25;
