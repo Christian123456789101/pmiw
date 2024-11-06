@@ -37,9 +37,7 @@ function draw() {
       background(255);
     }
   }
-  
-  image(imagen, 0, 0, 400, 400);
-  
 
   grilla();
+  image(imagen, 0, 0, 400, 400);
 }
