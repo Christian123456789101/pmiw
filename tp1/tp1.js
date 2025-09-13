@@ -3,6 +3,7 @@
 //comisión 2
 //tp1
 //PMIW
+//link:  https://youtu.be/fGaLqroXZUg
 
 let tam = 23;
 let cant = 25;
@@ -42,3 +43,4 @@ function draw() {
   grilla();
   image(imagen, 0, 0, 400, 400);
 }
+
